@@ -1,2 +1,2 @@
 # PowerCast_
-Energy demand forecasting leveraging deep learnining models
+Energy demand forecasting leveraging deep learning models
